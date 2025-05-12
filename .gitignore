@@ -1,0 +1,26 @@
+# 🟢 Python 生成的临时文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🟢 虚拟环境文件夹（如果叫 venv）
+venv/
+
+# 🟢 Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# 🟢 VS Code 配置
+.vscode/
+
+# 🟢 Mac 系统生成的无用文件
+.DS_Store
+
+# 🟢 Chroma 本地数据库
+chroma_db/
+
+# 🟢 模型缓存（如果手动下载了模型）
+models/
+
+# 🟢 其他不需要上传的大文件
+*.log
